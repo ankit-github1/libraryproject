@@ -1,0 +1,17 @@
+**Database Name: libraryproject**
+
+**Developed by Ankit Mishra**
+
+
+
+
+**Member's Login**
+
+-You can register yourself and verify the membership request using
+Librarian's Account in order to continue!
+
+
+**Login Details**
+
+Username: ankit
+Password: librarian
